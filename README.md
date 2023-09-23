@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andre-villar
 - 👀 I’m interested in front and back-end dev
 - 🌱 I’m currently learning html, javascript, python, php...
-- 💞️ I’m looking to collaborate on new job opportunities
+- 💞️ I’m looking for new job opportunities in future
 - 📫 How to reach me: Instagram: @oandrecorretor
 
 <!---
